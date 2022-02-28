@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
+  "name": "BlackBox",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Logs info about player (you)",
+  "url": "https://github.com/ZimnyCat/BlackBox",
+  "authors": [ "ZimnyCat" ],
+  "main_class": "zimnycat.BlackBox.BlackBoxPlugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [ "mixins.BlackBox.json" ],
   "required_plugins": []
 }
