@@ -6,6 +6,5 @@
   "authors": [ "ZimnyCat" ],
   "main_class": "zimnycat.BlackBox.BlackBoxPlugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.BlackBox.json" ],
   "required_plugins": []
 }
